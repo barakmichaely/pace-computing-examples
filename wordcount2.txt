@@ -1,0 +1,13 @@
+This is a test sentence for the robots to compute
+The main elements of big data are:
+Volume - There is a massive amount of data generated every second.
+Robots - You always need robots for data science
+Veracity - Trustworthiness in terms of quality and accuracy
+This sentence is different
+Data science is cool
+The main challenges that big data faced and the solutions for each are listed below:
+Serial processing
+One input
+One Output
+Lack of ability to process unstructured data
+This text file is defeinitely different
